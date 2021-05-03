@@ -47,3 +47,4 @@ const res = captalize('ehsan majid sara');
 const patternLengthPassword = /^[\d+]{1,9}/;
 
 console.log(patternLengthPassword.exec(1111111111));
+
